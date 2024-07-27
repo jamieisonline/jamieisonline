@@ -1,7 +1,7 @@
 ## [LOOKING FOR IT WORK](https://github.com/mooisonline/mooisonline/blob/main/Jamie_Goodrich_Maclean_Resume.pdf)💻🍁🐹 
 
 <p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/mooisonline/mooisonline/main/patchyarch.png">
+  <img width="250" src="https://raw.githubusercontent.com/mooisonline/mooisonline/main/patchyarch.png">
 </p>
 
 ## Who am I:
@@ -10,3 +10,6 @@
 - Bilingual Canadian (French, English)
 - Eager to apply myself and grow my knowledge
 - Love cats and dogs 
+
+##CV
+https://github.com/mooisonline/mooisonline/blob/main/Jamie_Goodrich_Maclean_Resume.pdf
