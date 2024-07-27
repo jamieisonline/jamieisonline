@@ -6,7 +6,7 @@
 
 ## Who am I?:
 - Recent electronics and information technology program graduate looking for hands-on work experience
-- 3+ years of customer service experience
+- 4+ years of customer service experience
 - Bilingual Canadian (French, English)
 - Eager to apply myself and grow my knowledge
 - Love cats and dogs 
