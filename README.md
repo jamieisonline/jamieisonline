@@ -9,4 +9,4 @@
 - Eager to apply myself and grow my skillset.
 - Lover of cats and dogs
 ## CV
-https://github.com/mooisonline/mooisonline/blob/main/Jamie_Goodrich_Maclean_Resume.pdf
+https://github.com/jamieisonline/jamieisonline/blob/main/Jamie_Goodrich_Maclean_Resume.pdf
