@@ -12,4 +12,4 @@
 https://github.com/jamieisonline/jamieisonline/blob/main/Jamie_Goodrich_Maclean_Resume.pdf
 
 
-(https://github.com/jamieisonline/jamieisonline/blob/main/patchyarch.png)
+![bleh](https://raw.githubusercontent.com/jamieisonline/jamieisonline/main/patchyarch.png)
